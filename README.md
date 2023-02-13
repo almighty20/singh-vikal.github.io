@@ -1,5 +1,5 @@
-# almighty20.github.io
-Link to the Site: https://almighty20.github.io/
+# vikalsingh.netlify.app
+Link to the Site: https://vikalsingh.netlify.app/
 
 This is my personal website. It is made using [HTML Mozilla](https://developer.mozilla.org/en-US/docs/Web/HTML), [HTML](https://www.w3schools.com/html/) with [TailwindCSS](https://tailwindcss.com) and [Bootstrap](https://getbootstrap.com/).
 
@@ -10,7 +10,7 @@ First install a IDE you like.
 Clone the repository to your desired location.
 
 ```sh
-git clone https://github.com/almighty20/almighty20.github.io
+git clone https://github.com/almighty20/singh-vikal.github.io
 ```
 
 Change your directory to the cloned repository and install the extra softwares and dependencies.
