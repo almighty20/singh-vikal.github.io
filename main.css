@@ -76,7 +76,13 @@ html {
 .welcome h4 {
     font-family: 'GeneralL';
 }
-
+.welcome h6 {
+    font-family: 'GeneralL';
+}
+.welcome p {
+    font-family: 'GeneralL';
+    font-size: 20px;
+}
 @media (min-width: 10px) {
     .welcome {
         font-size: 50px;
